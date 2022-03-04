@@ -1,0 +1,50 @@
+h5{
+    color: blue;
+}
+
+#foot{
+    border: 1px thin;
+    background-color: grey;
+    height: 70px;
+    text-align: center;
+    
+}
+.footer{
+    margin-bottom: 40px;
+}
+#nav{
+    background-color: indigo;
+}
+.navbar{
+    background-color:#52664B;
+}
+#first{
+    background-color: yellowgreen;
+    border: 1px solid;
+    height: 50px;
+    border-radius: 10px;
+}
+#second{
+    
+    background-color: dodgerblue;
+    border: 1px solid;
+    height: 50px;
+    border-radius: 10px;
+}
+#third{
+    
+    background-color: deepskyblue;
+    border: 1px solid;
+    height: 50px;
+    border-radius: 10px;
+}
+.hh{
+    height: 6vh;
+}
+
+
+
+
+    
+
+
